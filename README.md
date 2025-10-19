@@ -12,7 +12,7 @@ En conjunto, los hallazgos ofrecen información valiosa para **equipos de salud 
 
 ---
 
-### Demographic and Clinical Analysis of OCD Patients: Insights for Mental Health Management
+### Demographic and Clinical Analysis of OCD Patients
 
 **Project Description:**
 
