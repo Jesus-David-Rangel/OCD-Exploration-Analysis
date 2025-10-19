@@ -10,6 +10,8 @@ Los histogramas de **duración de síntomas** revelan una alta cronicidad en par
 
 En conjunto, los hallazgos ofrecen información valiosa para **equipos de salud mental y gestores clínicos**, permitiendo diseñar programas más específicos y basados en evidencia para la detección temprana, intervención y seguimiento del TOC en diferentes grupos demográficos.
 
+---
+
 ### Demographic and Clinical Analysis of OCD Patients: Insights for Mental Health Management
 
 **Project Description:**
